@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Nicholas',
-  domain: '',
-  author: 'wuyw',
+  domain: 'https://wuyunwei.notion.site',
+  author: '伍云伟',
 
   // open graph metadata (optional)
   description: '我想要两个西柚',
